@@ -14,7 +14,7 @@ import {
 	toggleTodoActionCreator,
 	deleteTodoActionCreator,
 	selectTodoActionCreator,
-} from "./redux-og";
+} from "./redux-rtk";
 import { useDispatch, useSelector } from "react-redux";
 
 const App = function () {
